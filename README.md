@@ -12,7 +12,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://toppng.com/uploads/preview/microsoft-visual-studio-team-foundation-2013-licensing-115497791285xyhnlwdc5.png" />
+<img align="left" alt="ASP.NET" width="26px" src="https://icon2.cleanpng.com/20180804/abt/kisspng-asp-net-mvc-logo-net-framework-model%E2%80%93view%E2%80%93con-29-essential-asp-dot-net-mvc-interview-questions-a-5b663cf1417110.4354848415334269292681.jpg" />
+<img align="left" alt="C#" width="26px" src="https://icon2.cleanpng.com/20180804/abt/kisspng-asp-net-mvc-logo-net-framework-model%E2%80%93view%E2%80%93con-29-essential-asp-dot-net-mvc-interview-questions-a-5b663cf1417110.4354848415334269292681.jpg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
